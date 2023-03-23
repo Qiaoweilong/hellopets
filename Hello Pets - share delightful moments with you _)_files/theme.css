@@ -1,0 +1,11 @@
+html {
+    background: #FFFFFF;
+  }
+  body {
+    /* background: linear-gradient(180deg, #5C577D 0%, #201C3C 100%); */
+    background: #FFFFFF;
+  }
+  
+  html, body, #__next {
+    height: 100%;
+  }
